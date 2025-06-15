@@ -1,5 +1,6 @@
-**# Image-Deblurring-using-Gan
-**Image Deblurring using a modified DeblurGAN-v2 architecture with TensorFlow.
+** Image-Deblurring-using-Gan**
+
+Image Deblurring using a modified DeblurGAN-v2 architecture with TensorFlow.
 
 
 **# Image Deblurring with DeblurGAN-v2 🧠🖼️
